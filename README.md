@@ -26,6 +26,7 @@ I am a fullstack web developer from France
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Corriger le problème de certificat Let’s Encrypt expiré sur AWS](https://medium.com/@sbesnier1901/corriger-le-probl%C3%A8me-de-certificat-lets-encrypt-expir%C3%A9-sur-aws-ecef04e9248d?source=rss-ee9d34e9c8eb------2)
 - [Vue.js – Premiers pas avec Nuxt.js : Composants, pages, authentification](https://medium.com/@sbesnier1901/vue-js-premiers-pas-avec-nuxt-js-composants-pages-authentification-9e9ebb5290c5?source=rss-ee9d34e9c8eb------2)
 - [Sécuriser une API avec Node.js et JWT](https://medium.com/@sbesnier1901/s%C3%A9curiser-une-api-avec-node-js-et-jwt-15e14d9df109?source=rss-ee9d34e9c8eb------2)
 - [Première API REST avec Node.js et MongoDB sous Docker](https://medium.com/@sbesnier1901/premi%C3%A8re-api-rest-avec-node-js-et-mongodb-sous-docker-884bda9d8e07?source=rss-ee9d34e9c8eb------2)
