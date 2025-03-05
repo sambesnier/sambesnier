@@ -21,6 +21,7 @@ I am a fullstack web developer from France
 [<img align="left" alt="aws" src="https://img.shields.io/badge/PHP%20-%23232F3E?logo=php&logoColor=white&style=for-the-badge" />](#)
 [<img align="left" alt="aws" src="https://img.shields.io/badge/Mysql%20-%23232F3E?logo=mysql&logoColor=white&style=for-the-badge" />](#)
 [<img align="left" alt="aws" src="https://img.shields.io/badge/c++%20-%230077B5?logo=cplusplus&logoColor=white&style=for-the-badge" />](#)
+[<img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%230077B5?logo=docker&logoColor=white&style=for-the-badge" />](#)
 <br/>
 <br/>
 
